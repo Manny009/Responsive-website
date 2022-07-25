@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .banner{
     position: relative;
     width: 100%;
@@ -119,7 +125,6 @@
 }
 .technology{
     background: #3f8ffc;
-    width: 100%;
     padding: 100px;
     padding-top: 300px;
     margin-top: -300px;
